@@ -1,0 +1,4 @@
+.vs/
+asp-core-signalR/bin
+asp-core-signalR/obj
+asp-core-signalR/wwwroot/lib
